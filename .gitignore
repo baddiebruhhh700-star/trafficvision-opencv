@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+input.mp4
+*.mp4
+*.avi
+*.mov
+
+vehicle_events.csv
