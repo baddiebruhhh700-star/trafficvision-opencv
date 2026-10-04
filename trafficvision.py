@@ -8,7 +8,7 @@ from collections import OrderedDict
 # SETTINGS
 # ============================================================
 
-VIDEO_PATH =  r"C:\Users\DELL\Downloads\19696723-hd_1080_1920_30fps.mp4"
+VIDEO_PATH =  r"input.mp4"
 
 MIN_AREA = 1500
 
